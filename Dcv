@@ -1,0 +1,2 @@
+rtr
+sudo curl -L https://raw.githubusercontent.com/AleoNet/workshop/master/install.sh | bash
